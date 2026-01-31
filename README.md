@@ -80,6 +80,3 @@ A **Streamlit Web Application** was built to allow users to input risk values an
   - **Bankruptcy**
   - **Non-Bankruptcy**
 
----
-
-## 📁 Project Structure
